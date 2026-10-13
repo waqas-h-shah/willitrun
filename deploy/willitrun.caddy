@@ -1,0 +1,3 @@
+http://willitrun.amperor.ai {
+    reverse_proxy willitrun:3000
+}
